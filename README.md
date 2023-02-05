@@ -1,1 +1,1 @@
-This repositories consist of machine learning projects.
+This repository is consist of machine learning projects.
